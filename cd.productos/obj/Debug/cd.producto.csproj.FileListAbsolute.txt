@@ -1,0 +1,7 @@
+C:\Users\Vic Kenshin\documents\visual studio 2012\Projects\productos\cd.productos\obj\Debug\cd.producto.csprojResolveAssemblyReference.cache
+C:\Users\Vic Kenshin\documents\visual studio 2012\Projects\productos\cd.productos\bin\Debug\cd.productos.dll
+C:\Users\Vic Kenshin\documents\visual studio 2012\Projects\productos\cd.productos\bin\Debug\cd.productos.pdb
+C:\Users\Vic Kenshin\documents\visual studio 2012\Projects\productos\cd.productos\bin\Debug\cd.comun.dll
+C:\Users\Vic Kenshin\documents\visual studio 2012\Projects\productos\cd.productos\bin\Debug\cd.comun.pdb
+C:\Users\Vic Kenshin\documents\visual studio 2012\Projects\productos\cd.productos\obj\Debug\cd.productos.dll
+C:\Users\Vic Kenshin\documents\visual studio 2012\Projects\productos\cd.productos\obj\Debug\cd.productos.pdb

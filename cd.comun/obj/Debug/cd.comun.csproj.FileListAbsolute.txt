@@ -1,0 +1,5 @@
+C:\Users\Vic Kenshin\documents\visual studio 2012\Projects\productos\cd.comun\bin\Debug\cd.comun.dll
+C:\Users\Vic Kenshin\documents\visual studio 2012\Projects\productos\cd.comun\bin\Debug\cd.comun.pdb
+C:\Users\Vic Kenshin\documents\visual studio 2012\Projects\productos\cd.comun\obj\Debug\cd.comun.csprojResolveAssemblyReference.cache
+C:\Users\Vic Kenshin\documents\visual studio 2012\Projects\productos\cd.comun\obj\Debug\cd.comun.dll
+C:\Users\Vic Kenshin\documents\visual studio 2012\Projects\productos\cd.comun\obj\Debug\cd.comun.pdb

@@ -1,0 +1,7 @@
+C:\Users\Vic Kenshin\Documents\Visual Studio 2012\Projects\productos\cd.cliente\bin\Debug\cd.cliente.dll
+C:\Users\Vic Kenshin\Documents\Visual Studio 2012\Projects\productos\cd.cliente\bin\Debug\cd.cliente.pdb
+C:\Users\Vic Kenshin\Documents\Visual Studio 2012\Projects\productos\cd.cliente\bin\Debug\cd.comun.dll
+C:\Users\Vic Kenshin\Documents\Visual Studio 2012\Projects\productos\cd.cliente\bin\Debug\cd.comun.pdb
+C:\Users\Vic Kenshin\Documents\Visual Studio 2012\Projects\productos\cd.cliente\obj\Debug\cd.cliente.csprojResolveAssemblyReference.cache
+C:\Users\Vic Kenshin\Documents\Visual Studio 2012\Projects\productos\cd.cliente\obj\Debug\cd.cliente.dll
+C:\Users\Vic Kenshin\Documents\Visual Studio 2012\Projects\productos\cd.cliente\obj\Debug\cd.cliente.pdb

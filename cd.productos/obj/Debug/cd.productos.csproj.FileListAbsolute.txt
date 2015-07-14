@@ -1,0 +1,4 @@
+C:\Users\Vic Kenshin\Documents\Visual Studio 2012\Projects\productos\cd.productos\bin\Debug\cd.productos.dll
+C:\Users\Vic Kenshin\Documents\Visual Studio 2012\Projects\productos\cd.productos\bin\Debug\cd.productos.pdb
+C:\Users\Vic Kenshin\Documents\Visual Studio 2012\Projects\productos\cd.productos\obj\Debug\cd.productos.dll
+C:\Users\Vic Kenshin\Documents\Visual Studio 2012\Projects\productos\cd.productos\obj\Debug\cd.productos.pdb
